@@ -1,0 +1,35 @@
+body {
+  background: url(https://image.ibb.co/nHEuCd/stripes_light.png);
+}
+
+.container {
+  width: 900px;
+  background: white;
+  height: 600px;
+}
+
+.img-responsive {
+  width: 150px;
+  height: 150px;
+}
+
+.navbar-brand {
+  background: teal;
+  font-weight: bold;
+  padding: 20px 20px 20px 20px;
+}
+
+#footer {
+  height: 60px;
+  background-color: white;
+}
+
+.heading {
+    border-bottom: 2px solid gray;
+}
+
+.projects {
+  width: 200px;
+  length: 200px;
+  position: center;
+}
