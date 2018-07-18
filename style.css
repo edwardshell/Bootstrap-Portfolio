@@ -26,11 +26,11 @@ body {
     border-bottom: 2px solid gray;
 }
 
-.projects {
+/* .projects {
   width: 200px;
   length: 200px;
   position: center;
-}
+} */
 
 img {
   float: left;
