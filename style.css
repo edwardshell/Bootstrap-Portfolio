@@ -6,6 +6,10 @@ body {
   background: white;
 }
 
+#headshot {
+  margin-left: 20px;
+}
+
 .img-responsive {
   width: 150px;
   height: 150px;
