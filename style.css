@@ -16,9 +16,10 @@ body {
 }
 
 .navbar-brand {
-  background: teal;
-  font-weight: bold;
+  background: teal; 
+  font-weight: bold; 
   padding: 20px 20px 20px 20px;
+
 }
 
 #footer {
@@ -45,6 +46,21 @@ img {
 }
 
 h3 {
+  position: absolute;
+  bottom: 0px;
+  width: 200px;
+  padding: 15px;
+  margin-bottom: 0;
+  font-weight: 50;
+  line-height: 25px;
+  color: #fff;
+  text-align: center;
+  background: #4aaaa5;
+  border-bottom: 0;
+  font-size: 16px;
+}
+
+.dropdown {
   position: absolute;
   bottom: 0px;
   width: 200px;
