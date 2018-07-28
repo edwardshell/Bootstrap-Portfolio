@@ -8,13 +8,17 @@ body {
 }
 
 #headshot {
-  margin-left: 20px;
+  width: 200px;
+  height: 200px;
 }
 
 .img-responsive {
   width: 150px;
   height: 150px;
 }
+
+
+
 
 .navbar-brand {
   /* background: teal;  */
@@ -33,13 +37,10 @@ body {
     border-bottom: 2px solid gray;
 }
 
-/* .projects {
-  width: 200px;
-  length: 200px;
-  position: center;
-} */
-
-img {
+.col-md-4 {
+  padding-left: 90px;
+}
+.imgp {
   float: left;
   width: 200px;
   height: auto;
@@ -60,6 +61,7 @@ h3 {
   background: #4aaaa5;
   border-bottom: 0;
   font-size: 16px;
+  margin-left: 95px;
 }
 
 .dropdown {
@@ -75,8 +77,6 @@ h3 {
   background: #4aaaa5;
   border-bottom: 0;
   font-size: 16px;
+
 }
 
-.row {
-  margin-left: 95px;
-}
