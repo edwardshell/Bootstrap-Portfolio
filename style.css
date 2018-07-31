@@ -5,6 +5,7 @@ body {
 .container {
   background: white;
   text-align: center;
+ 
 }
 
 #headshot {
@@ -31,6 +32,7 @@ body {
 #footer {
   height: 60px;
   background-color: white;
+
 }
 
 .heading {
